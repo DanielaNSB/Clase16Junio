@@ -1,1 +1,2 @@
 Clase 16jun22
+y = 6
